@@ -1,0 +1,8 @@
+{
+
+ "numberOfPeople":4,
+ "names":["Siva","Sai", "Sri","Praveen"],
+"expenditures":[1000,1400, 0, 2000],
+"expenditures1": [[300,300,300,100],[1400],[0],[1000,1000]]
+
+}
